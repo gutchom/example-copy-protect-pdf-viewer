@@ -28,7 +28,6 @@
         break;
 
       case 'Unidentified':
-      default:
         hideOverlay();
     }
   }
@@ -42,7 +41,6 @@
       case 'Meta':
       case 'Alt':
         hideOverlay();
-        break;
     }
   }
 
